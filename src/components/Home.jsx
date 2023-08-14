@@ -18,6 +18,11 @@ function Home() {
      </section>
 
 
+     <section id='home-mission' className='home-mission' >
+       mission section
+     </section>
+
+
 
     </div>
   )
