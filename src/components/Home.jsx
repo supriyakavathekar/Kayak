@@ -23,6 +23,14 @@ function Home() {
      </section>
 
 
+     <section id='home-tours' className='tours' >
+      <h1>our previous trips</h1>
+      <h1>What parents say about our Project:</h1>
+     </section>
+
+     
+
+
 
     </div>
   )
