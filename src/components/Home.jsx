@@ -28,7 +28,14 @@ function Home() {
       <h1>What parents say about our Project:</h1>
      </section>
 
+     <section className='home-faq' >
+      <h1>FAQ</h1>
+     </section>
+
+
      
+
+
 
 
 
