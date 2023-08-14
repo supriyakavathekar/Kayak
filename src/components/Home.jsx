@@ -32,8 +32,12 @@ function Home() {
       <h1>FAQ</h1>
      </section>
 
+     <section id='home-contact' className='home-contact' >
+      <h1>Contact Form</h1>
+     </section>
 
-     
+
+
 
 
 
