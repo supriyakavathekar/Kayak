@@ -10,7 +10,7 @@ function Home() {
         <div className='home-navbar' >Navigation menu</div>
 
         <div className='home-hero-text'>
-          <h1>Empowring <strong>Youth</strong> </h1>
+          <h1>Empowering <strong>Youth</strong> </h1>
           <h3>...one paddle at a time!</h3>
           <button className='home-hero-button'>Book a trip</button>
           <a href="">Contact</a>
