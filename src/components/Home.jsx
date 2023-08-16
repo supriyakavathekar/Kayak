@@ -19,7 +19,7 @@ function Home() {
 
 
       <section id='home-mission' className='home-mission' >
-        mission section
+      <h1>mission section</h1>  
       </section>
 
 
