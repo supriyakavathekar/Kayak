@@ -1,4 +1,6 @@
 import React from 'react'
+// import Faq from './Faq'
+
 
 import './Home.css';
 
@@ -7,7 +9,7 @@ function Home() {
     <div className='home'>
       <section id='home-hero' className='home-hero'>
         <div className='home-hero-image' >background image</div>
-        <div className='home-navbar' >Navigation menu</div>
+        {/* <div className="home-navbar"><Navbar/></div> */}
 
         <div className='home-hero-text'>
           <h1>Empowering <strong>Youth</strong> </h1>
@@ -16,8 +18,13 @@ function Home() {
           <a href="">Contact</a>
         </div>
       </section>
+ 
+       {/* <section className='home-faq' >
+        <h1>FAQ</h1>
+      </section>  */}
 
-
+    {/* <Faq/> */}
+    
       <section id='home-mission' className='home-mission' >
       <h1>mission section</h1>  
       </section>
@@ -27,10 +34,8 @@ function Home() {
         <h1>our previous trips</h1>
         <h1>What parents say about our Project:</h1>
       </section>
-
-      <section className='home-faq' >
-        <h1>FAQ</h1>
-      </section>
+ 
+      
 
       <section className='home-new-tours'>
         <h1>NEW TOURS ARE COMING!</h1>
